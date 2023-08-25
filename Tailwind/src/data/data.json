@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 0,
+    "channel": "Full Stack Developement Program",
+    "des": "Full Stack Web"
+
+  },
+  {
+    "id": 1,
+    "channel": "Python Automation Testing Program",
+    "des": "All Computer Domains"
+  },
+  {
+    "id": 2,
+    "channel": "Chai Aur React",
+    "des": "React Frontend Web"
+  }
+]
